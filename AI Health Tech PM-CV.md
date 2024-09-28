@@ -1,5 +1,5 @@
 # YUZHUO (BELINDA) WU
-Beijing, China | +86 18709112224 | wyzbelinda@gmail.com | [LinkedIn Profile]
+Beijing, China | +86 18709112224 | wyzbelinda@gmail.com |https://www.linkedin.com/in/yuzhuo-belinda-wu/
 
 ## CAREER OBJECTIVE
 As an AI and computational biology specialist with experience in AI-driven health-tech solutions, I am seeking roles in Technical Project Management or AI Product Management within Silicon Valley's health-tech industry. My background in algorithm development, leadership, and team management positions me to drive innovation in AI healthcare.
