@@ -7,6 +7,7 @@ As an AI and computational biology specialist with experience in AI-driven healt
 ## KEY ACHIEVEMENTS
 - Ranked 56th out of 10,006 participants (Top 0.56%) in the 2021 Asia Pacific Ophthalmology Society Big Data Competition for developing an innovative AI model to predict patient responses to retinal disease treatments, potentially reducing diagnosis time by 30%.
 - Ranked 24th out of 1,438 teams (Top 1.67%) in the Tencent Light Charity Challenge, creating an AI-powered solution for wildlife conservation that improved species identification accuracy by 25%.
+- Interviewed by Toastmaster International
 - First Class Scholarship, Chinese Academy of Sciences University, for outstanding academic performance and research in AI for healthcare.
 - Outstanding Student Leader, Xi'an Jiaotong University, recognized for leading a cross-functional team in developing an AI-driven campus navigation system, improving accessibility for 30,000+ students.
 
