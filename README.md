@@ -12,10 +12,10 @@ As an AI and computational biology specialist with experience in AI-driven healt
 
 ## SKILLS
 ### Technical Skills
-- **Machine Learning**: TensorFlow, PyTorch, NLP tools (e.g., HanLP)
-- **Big Data**: MapReduce, Hive, Yarn
+- **Machine Learning**: TensorFlow, PyTorch, NLP tools
+- Big Data: MapReduce, Hadoop, Hive, Yarn
 - Programming: C++, Python, Java, SQL
-- Web Development: SpringMVC, JavaScript, HTML/CSS
+- Web Development: JavaScript, HTML/CSS, SpringMVC
 - Database Management: SQL, MongoDB
 
 ### Project Management & Soft Skills
