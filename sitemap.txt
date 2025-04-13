@@ -1,3 +1,4 @@
+http://example.com/about/index.html
 http://example.com/2025/04/14/%E5%8D%9A%E5%AE%A2%E7%9A%84%E8%AF%9E%E7%94%9F/
 http://example.com/archives/index.html
 http://example.com/tags/index.html
