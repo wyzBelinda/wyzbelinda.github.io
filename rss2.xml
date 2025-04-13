@@ -9,7 +9,7 @@
     <atom:link href="http://example.com/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>学不足以促成，行不足以达意</description>
-    <pubDate>Sun, 13 Apr 2025 16:59:53 GMT</pubDate>
+    <pubDate>Sun, 13 Apr 2025 17:01:34 GMT</pubDate>
     <generator>http://hexo.io/</generator>
     
     <item>
@@ -30,7 +30,9 @@
       
       
       
-      <category domain="http://example.com/tags/%E6%8A%80%E5%B7%A7-%E5%88%9B%E5%BB%BA%E5%8D%9A%E5%AE%A2/">技巧,创建博客</category>
+      <category domain="http://example.com/tags/%E6%8A%80%E5%B7%A7/">技巧</category>
+      
+      <category domain="http://example.com/tags/%E5%88%9B%E5%BB%BA%E5%8D%9A%E5%AE%A2/">创建博客</category>
       
       
       <comments>http://example.com/2025/04/14/%E5%8D%9A%E5%AE%A2%E7%9A%84%E8%AF%9E%E7%94%9F/#disqus_thread</comments>
